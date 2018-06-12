@@ -1,0 +1,13 @@
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/Main.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/core/util/Constants.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/zgc/ZgcHttpClient.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/CrawlerApi.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/dao/MongoDao.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/dao/MongoJDBC.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/core/util/Config.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/praser/ListPraser.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/queue/Queue.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/praser/DetailParser.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/entity/Product.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/core/util/ZgcJsoupUtil.java
+/home/wu/eclipse-workspace/WuCrawler/src/main/java/com/wu/crawler/core/util/HttpClientUtil.java

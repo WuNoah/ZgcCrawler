@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.17.jar commons-logging-1.2.jar commons-codec-1.9
+ .jar httpcore-4.4.4.jar mongo-java-driver-3.6.3.jar jsoup-1.8.3.jar h
+ ttpclient-4.5.2.jar
+Main-Class: Main.Main
+
